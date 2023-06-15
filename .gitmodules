@@ -1,0 +1,4 @@
+[submodule "lesson05/fileshare"]
+	path = lesson05/fileshare
+	url = git@github.com:southball/fileshare
+	branch = main
